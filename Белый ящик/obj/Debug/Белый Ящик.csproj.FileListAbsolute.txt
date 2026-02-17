@@ -1,0 +1,7 @@
+D:\рашид\Белый Ящик\bin\Debug\Белый Ящик.exe.config
+D:\рашид\Белый Ящик\bin\Debug\Белый Ящик.exe
+D:\рашид\Белый Ящик\bin\Debug\Белый Ящик.pdb
+D:\рашид\Белый Ящик\obj\Debug\Белый Ящик.csproj.AssemblyReference.cache
+D:\рашид\Белый Ящик\obj\Debug\Белый Ящик.csproj.CoreCompileInputs.cache
+D:\рашид\Белый Ящик\obj\Debug\Белый Ящик.exe
+D:\рашид\Белый Ящик\obj\Debug\Белый Ящик.pdb
